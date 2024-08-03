@@ -5,3 +5,4 @@ Since new.reddit.com didn't work for me anymore, I created a small scripts which
 Most noticible the round edges around Posts, background and post color and the left searchbar.
 
 Add the script in Tampermonkey and you're ready to go.
+https://greasyfork.org/en/scripts/502536-2nd-gen-reddit-ui
