@@ -4,6 +4,7 @@
 // @version      1.0.0
 // @description  Reverts Reddit to 2nd Generation UI (new.reddit.com)
 // @author       sidetime
+// @license MIT
 // @match        https://www.reddit.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @grant        GM_addStyle
