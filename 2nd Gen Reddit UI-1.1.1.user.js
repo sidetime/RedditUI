@@ -8,7 +8,6 @@
 // @match        https://www.reddit.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @grant        GM_addStyle
-// @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @run-at       document-start
 
 // ==/UserScript==
