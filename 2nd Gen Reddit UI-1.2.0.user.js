@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         2nd Gen Reddit UI
 // @namespace    
-// @version      1.1.2
+// @version      1.2.0
 // @description  Reverts Reddit to 2nd Generation UI (new.reddit.com)
 // @author       sidetime
 // @license MIT
@@ -10,13 +10,14 @@
 // @grant        GM_addStyle
 // @run-at       document-start
 
+// @downloadURL https://update.greasyfork.org/scripts/502536/2nd%20Gen%20Reddit%20UI.user.js
+// @updateURL https://update.greasyfork.org/scripts/502536/2nd%20Gen%20Reddit%20UI.meta.js
 // ==/UserScript==
 
 //------GENERAL------
 
 //Hide Post Insights (to display: comment next line)
-GM_addStyle('.visible {display: none !important;}');
-
+GM_addStyle('faceplate-tracker[source="post_insights"] {display: none !important;}');
 
 
 
