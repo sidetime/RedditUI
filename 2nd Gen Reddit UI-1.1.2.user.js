@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         2nd Gen Reddit UI
 // @namespace    
-// @version      1.1.0
+// @version      1.1.2
 // @description  Reverts Reddit to 2nd Generation UI (new.reddit.com)
 // @author       sidetime
 // @license MIT
