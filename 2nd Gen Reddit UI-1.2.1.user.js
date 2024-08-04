@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         2nd Gen Reddit UI
 // @namespace    
-// @version      1.2.0
+// @version      1.2.1
 // @description  Reverts Reddit to 2nd Generation UI (new.reddit.com)
 // @author       sidetime
 // @license MIT
@@ -83,7 +83,7 @@ GM_addStyle(':root:not(.theme-light) .theme-rpl {--color-secondary-background-ho
 GM_addStyle('.bg-neutral-background-strong {background-color: #1a1a1b !important;}');
 
 
-GM_addStyle('article {border-color: #343536 !important; border-width: 0.1rem !important; border-style: solid !important; border-radius: 0rem !important;}');
+GM_addStyle('shreddit-profile-comment {border-color: #343536 !important; border-width: 0.1rem !important; border-style: solid !important; border-radius: 0rem !important;}');
 
 
 
